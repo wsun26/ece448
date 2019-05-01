@@ -1,0 +1,20 @@
+----Turn #: 79----
+
+W-------
+W-W-W---
+-------W
+B-------
+--------
+W-------
+B-----B-
+--B--WB-
+
+Winner: 0
+-White Captures: 11
+-Black Captures: 9
+
+################
+White States Expanded  : 1565221
+Black States Expanded  : 1862667
+Nodes Expanded per Turn: 43390
+Avg. Turn Time         : 3.46814445604[s]
